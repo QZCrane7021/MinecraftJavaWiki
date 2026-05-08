@@ -23,6 +23,10 @@ nav = [
         "general/index.md",
         "general/minecraft-java-introduction.md",
         "general/how-to-play-je-general.md"
+    ]},
+    {"模组加载器" = [
+        "mod-loader/index.md",
+        "mod-loader/forge.md"
     ]}
 ]
 
